@@ -20,7 +20,7 @@
 3. 	`The contest year`
 4. 	`The difficulty`
 5. 	Example: My name : Hanbyul Park, 2019, S1
-				HANARK2019S1.cpp
+- > HANARK2019S1.cpp
 
 ### Information
 - **==The test day is Feb 12.==**
