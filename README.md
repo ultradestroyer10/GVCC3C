@@ -1,4 +1,8 @@
 ## Georges Vanier Coding Club CCC Repository Rule
+
+### Principle
+- KISS(Keep It Simple Stupid)
+
 ### Language
 - C++
 
@@ -12,7 +16,9 @@
 
 ### Past Contests
 - 2019 (Updated, Feb 02, 2019)
-- 2018 (Scheduled to be updated soon)
+- 2018 (Scheduled to be updated on Feb 04, 2019)
+- 2017 (Scheduled to be updated on Feb 06, 2019)
+- 2016 (Scheduled to be updated on Feb 08, 2019)
 
 ### Format of your solution file
 1. `The first three letters of your first name`
@@ -24,4 +30,5 @@
 
 ### Information
 - **==The test day is Feb 12.==**
+- Only 9 Days left
 - [CCC Online Grader](https://cccgrader.com/)
