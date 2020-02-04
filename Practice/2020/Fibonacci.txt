@@ -1,0 +1,1 @@
+Fibonacci Sequence is one of the most famous sequences. It has such a pattern that the next term is addition of two previous terms. For example, 1, 1, 2, 3, 5, 8 and so on. Now, use only three variables and an iteration structure to make a program that shows the fibonacci sequence until 1000. 
