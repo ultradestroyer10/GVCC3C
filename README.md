@@ -30,5 +30,5 @@
 
 ### Information
 - **==The test day is Feb 12.==**
-- Only 7 Days left
+- Only 5 Days left
 - [CCC Online Grader](https://cccgrader.com/)
