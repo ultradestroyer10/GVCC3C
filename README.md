@@ -2,9 +2,12 @@
 
 ### Principle
 - KISS(Keep It Simple Stupid)
+- Always, find easier and solid answer
 
 ### Language
 - C++
+- Python
+- Java
 
 ### Reference
 - [Tutorial on cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
@@ -25,10 +28,14 @@
 2. `The last three letters of your last name`
 3. 	`The contest year`
 4. 	`The difficulty`
-5. 	Example: My name : Hanbyul Park, 2019, S1
-- > HANARK2019S1.cpp
+5. 	Example: 
+    - Name: Java Developer
+    - Contest year : 2019
+    - Level of difficulty : Senior first question
+    - Programming language used : C++
+    - Format: JAVPER2019S1.cpp 
 
 ### Information
 - **==The test day is Feb 12.==**
-- Only 5 Days left
+- How many days left? : 4 days
 - [CCC Online Grader](https://cccgrader.com/)
