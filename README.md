@@ -37,5 +37,5 @@
 
 ### Information
 - **==The test day is Feb 12.==**
-- How many days left? : 4 days
+- How many days left? : Tomorrow!!!!!!!!!!!!!!!!!!
 - [CCC Online Grader](https://cccgrader.com/)
