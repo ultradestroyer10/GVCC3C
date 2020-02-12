@@ -9,6 +9,10 @@
 - Python
 - Java
 
+### Study How to use Github
+- https://guides.github.com/activities/hello-world/ //Brief introduction
+- https://guides.github.com/introduction/git-handbook/ //More about version control
+
 ### Reference
 - [Tutorial on cplusplus.com](http://www.cplusplus.com/doc/tutorial/)
 
@@ -37,5 +41,5 @@
 
 ### Information
 - **==The test day is Feb 12.==**
-- How many days left? : Tomorrow!!!!!!!!!!!!!!!!!!
+- How many days left? : Tomorrow!!!!!!!!!!!!!!!!!! No way
 - [CCC Online Grader](https://cccgrader.com/)
