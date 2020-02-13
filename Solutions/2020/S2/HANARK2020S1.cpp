@@ -5,7 +5,6 @@
     Language: C++
 */
 #include <iostream>
-#include <string>
 
 using namespace std;
 
@@ -23,7 +22,7 @@ int main(void) {
     float v, Mv;
 
     cin >> N;
-    int *time = new int [N]; // 1 5 3 4 2 3 2 3 2 2
+    int *time = new int [N]; 
     int *distance = new int [N];
 
     for (int i = 0; i < N; i++) {
@@ -51,7 +50,7 @@ int main(void) {
     Mv = 0;
     for (int i = 0; i < N - 1; i++) {
         float v = float ( (distance[i + 1] - distance[i]) ) 
-            / float ( (time[i + 1] - time[i]) ); //distance / time
+            / float ( (time[i + 1] - time[i]) ); //distance / time = velocity
         v = abs(v);
 
         //cout << "#debug: " << v << endl;
